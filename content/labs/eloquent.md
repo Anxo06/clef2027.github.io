@@ -8,7 +8,7 @@ menu:
   main:
     identifier: "lab-eloquent"
     parent: "labs"
-    weight: 30
+    weight: 40
 ---
 
  

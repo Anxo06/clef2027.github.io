@@ -8,7 +8,7 @@ menu:
   main:
     identifier: "lab-talentclef"
     parent: "labs"
-    weight: 150
+    weight: 130
 ---
 
 

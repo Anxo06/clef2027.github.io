@@ -8,7 +8,7 @@ menu:
   main:
     identifier: "lab-erisk"
     parent: "labs"
-    weight: 40
+    weight: 50
 ---
 
 eRisk explores the evaluation methodology, effectiveness metrics and practical applications (particularly those related to health and safety) of early risk detection on the Internet. Early detection technologies can be employed in different areas, particularly those related to health and safety. Our main goal is to pioneer a new interdisciplinary research area that would be potentially applicable to a wide variety of situations and to many different personal profiles.

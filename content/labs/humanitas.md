@@ -8,7 +8,7 @@ menu:
   main:
     identifier: "lab-humanitas"
     parent: "labs"
-    weight: 30
+    weight: 70
 ---
 
  

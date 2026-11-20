@@ -8,7 +8,7 @@ menu:
   main:
     identifier: "lab-temporal"
     parent: "labs"
-    weight: 30
+    weight: 140
 ---
 
  

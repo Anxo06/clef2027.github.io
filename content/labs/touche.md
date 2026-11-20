@@ -8,7 +8,7 @@ menu:
   main:
     identifier: "lab-touche"
     parent: "labs"
-    weight: 160
+    weight: 150
 ---
 
 

@@ -8,7 +8,7 @@ menu:
   main:
     identifier: "lab-uniagent"
     parent: "labs"
-    weight: 30
+    weight: 160
 ---
 
  
