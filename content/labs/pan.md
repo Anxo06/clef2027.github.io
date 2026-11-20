@@ -8,7 +8,7 @@ menu:
   main:
     identifier: "lab-pan"
     parent: "labs"
-    weight: 120
+    weight: 110
 ---
 
 

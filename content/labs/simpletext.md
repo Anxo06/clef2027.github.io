@@ -8,7 +8,7 @@ menu:
   main:
     identifier: "lab-simpletext"
     parent: "labs"
-    weight: 140
+    weight: 120
 ---
 
 
